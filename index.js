@@ -134,7 +134,7 @@ client.on("messageCreate", async (msg) => {
     const embed = new EmbedBuilder()
       .setTitle("📋 Seja um Influenciador")
       .setDescription("Clique no botão abaixo para preencher o formulário!")
-      .setColor("#092666")
+      .setColor("#E54A2F")
       .setThumbnail(msg.guild.iconURL())
       .setTimestamp();
 
